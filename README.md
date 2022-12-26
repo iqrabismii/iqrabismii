@@ -23,7 +23,8 @@
 <a>
 <a href="https://leetcode.com/iqra2291/"><img align="left" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt='Iqra Bismi | LeetCode'width="130px"/>
 </a>
-  
+<br />
+<br />
 <a>
 <a href="https://www.hackerrank.com/iqra_bismi"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt='Iqra Bismi | HackerRank'width="150px"/>
 </a> 
