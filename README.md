@@ -58,6 +58,10 @@ I am have projects implementing different ML algorithms, NLP library and statist
 <p align= "center">
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209588905-800321de-6c0e-4f98-a124-3b13f979f60e.png" alt="my banner">
 </p>
+  
+# <h1 align="center">Machine Learning Projects</h1>
+  
+
 
 
 
