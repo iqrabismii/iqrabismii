@@ -6,7 +6,7 @@
 #                                                         Hi there, I'm Iqra Bismi 👋
 
 
-<a href=”https://www.linkedin.com/in/iqra-bismi/"><img align=”left” src=”https://user-images.githubusercontent.com/108056063/209574341-3ad6834e-3203-4262-a086-a4b492014bfc.png” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/iqra-bismi/"><img align=”left” src=”https://raw.githubusercontent.com/iqrabismii/iqrabismii/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 <!--
 **iqrabismii/iqrabismii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
