@@ -35,8 +35,9 @@
      I am passionate about data science and machine learning. With the proliferation of data in today's digital age, data science has become a crucial tool for businesses, governments, and other organizations to understand and analyze complex data sets in order to make better decisions, improve operations, and drive growth. I have gained in depth-knowledge in this field by taking online courses, reading relavant books and articles about machine learning, statistics and data science.  
 
 <p align= "center">
-<img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209581648-ab358e2b-cd55-4f02-bcd3-215e83077795.png" alt="my banner">
+<img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209587586-9c1e2aa9-082c-4389-9718-63155fabaf0e.png" alt="my banner">
 </p>
+ 
 
 # About Me:
 I'm currently pursuing masters in Data Analytics from San Jose State University,Department of Applied Data Science. I have 4.5 years of experience in data modelling and data analysis. In addition to this, I completed courses such as Machine Learning Fundamentals, Natural Language Processing(NLP), Deep Learning, Big Data and Statistics from DataCamp, GeekForGeeks, Coursera and Udemy. These courses were helpful in gaining theoretical understanding of deep learning, machine learning and data science. To gain hands on experience, I did projects using Machine Learning, A/B Testing, Deep Learning and Big Data. This repository is created to demonstrate a wide range of skills and knowledge in the field of Data Science.Thank you 🙂
