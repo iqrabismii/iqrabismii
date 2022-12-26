@@ -1,5 +1,5 @@
 <p align= "center">
-<img width="600" height="600" src="https://user-images.githubusercontent.com/108056063/209529745-933f6c13-7127-4254-91ea-46ea559f023f.png" alt="my banner">
+<img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209529745-933f6c13-7127-4254-91ea-46ea559f023f.png" alt="my banner">
 </p>
 ### Hi there, I am Iqra Bismi👋
 
