@@ -8,6 +8,11 @@
 <a href="https://www.linkedin.com/in/iqra-bismi/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt='Iqra Bismi | LinkedIn' width="150px"/>
 </a>
 
+<a>
+<a href="https://medium.com/@iqra.bismi"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt='Iqra Bismi | Medium' width="130px"/>
+</a> 
+
+
 
 
 <!--
