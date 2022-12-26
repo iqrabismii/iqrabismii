@@ -26,9 +26,10 @@
   
 <a>
 <a href="https://www.hackerrank.com/iqra_bismi"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt='Iqra Bismi | HackerRank' width="165px"/>
-</a>  
-#
- 
+</a> 
+
+<br />
+<br />
      I am passionate about data science and machine learning. With the proliferation of data in today's digital age, data science has become a crucial tool for businesses, governments, and other organizations to understand and analyze complex data sets in order to make better decisions, improve operations, and drive growth. I have gained in depth-knowledge in this field by taking online courses, reading relavant books and articles about machine learning, statistics and data science.  
 
 <p align= "center">
