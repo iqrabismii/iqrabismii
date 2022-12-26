@@ -5,7 +5,7 @@
 
 #                                                         Hi there, I'm Iqra Bismi 👋
 <a>
-<a href="https://www.linkedin.com/in/iqra-bismi/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt='Iqra Bismi | LinkedIn' width="150px"/>
+<a href="https://www.linkedin.com/in/iqra-bismi/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt='Iqra Bismi | LinkedIn' height="40px" width="100px"/>
 </a>
 
 <a>
@@ -13,19 +13,19 @@
 </a> 
 
 <a>
-<a href="https://app.datacamp.com/profile/iqra2291"><img align="left" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt='Iqra Bismi | DataCamp' width="150px"/>
+<a href="https://app.datacamp.com/profile/iqra2291"><img align="left" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt='Iqra Bismi | DataCamp' height="40px" width="100px"/>
 </a>  
 
 <a>
-<a href="https://stellarpeers.com/profile/"><img align="left" src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white" alt='Iqra Bismi | Stellar' width="140px"/>
+<a href="https://stellarpeers.com/profile/"><img align="left" src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white" alt='Iqra Bismi | Stellar' height="40px" width="90px"/>
 </a>  
   
 <a>
-<a href="https://leetcode.com/iqra2291/"><img align="left" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt='Iqra Bismi | LeetCode' width="140px"/>
+<a href="https://leetcode.com/iqra2291/"><img align="left" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt='Iqra Bismi | LeetCode' height="40px" width="90px"/>
 </a>
   
 <a>
-<a href="https://www.hackerrank.com/iqra_bismi"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt='Iqra Bismi | HackerRank' width="165px"/>
+<a href="https://www.hackerrank.com/iqra_bismi"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt='Iqra Bismi | HackerRank' height="40px" width="115px"/>
 </a> 
 
 <br />
