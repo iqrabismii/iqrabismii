@@ -5,9 +5,7 @@
 
 #                                                         Hi there, I'm Iqra Bismi 👋
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://user-images.githubusercontent.com/108056063/209575466-d0370edf-a181-4820-b3bc-06bbbc1e5d55.png=react&logoColor=%2361DAFB"/>
-
-
+<![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)>
 
 
 
