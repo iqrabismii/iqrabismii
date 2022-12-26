@@ -3,7 +3,7 @@
 </p>
 
 <p align= "center">
-# **Hi there, I am Iqra Bismi** 👋
+**Hi there, I am Iqra Bismi** 👋
 </p>
 
 
