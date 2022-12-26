@@ -2,9 +2,11 @@
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209529745-933f6c13-7127-4254-91ea-46ea559f023f.png" alt="my banner">
 </p>
 
-<h3 align=”center”>
+
 #                                                         Hi there, I'm Iqra Bismi 👋
-</h3>
+
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://user-images.githubusercontent.com/108056063/209575466-d0370edf-a181-4820-b3bc-06bbbc1e5d55.png=react&logoColor=%2361DAFB"/>
+
 
 
 
