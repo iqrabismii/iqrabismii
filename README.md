@@ -1,14 +1,14 @@
 <p align= "center">
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209529745-933f6c13-7127-4254-91ea-46ea559f023f.png" alt="my banner">
 </p>
-
+<a href=”https://www.linkedin.com/in/iqra-bismi/"><img align=”left” src=”https://img.shields.io/badge/linkedin-%230077B5.svg" alt=”Iqra Bismi | LinkedIn” width=”21px”/>
+</a>
 
 #                                                         Hi there, I'm Iqra Bismi 👋
 
 
 
-<a href=”https://www.linkedin.com/in/iqra-bismi/"><img align=”left” src=”https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=”Iqra Bismi | LinkedIn” width=”21px”/>
-</a>
+
 
 
 
