@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAFV2Wk5e3Q/I4Vhz0n3yU7hox5FcisPJw/edit?layoutQuery=banner+technology
+
 ### Hi there, I am Iqra Bismi👋
 
 
