@@ -36,6 +36,16 @@
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209581648-ab358e2b-cd55-4f02-bcd3-215e83077795.png" alt="my banner">
 </p>
 
+# About Me:
+I'm currently pursuing masters in Data Analytics from San Jose State University,Department of Applied Data Science. I have 4.5 years of experience in data modelling and data analysis. In addition to this, I completed courses such as Machine Learning Fundamentals, Natural Language Processing(NLP), Deep Learning, Big Data and Statistics from DataCamp, GeekForGeeks, Coursera and Udemy. These courses were helpful in gaining theoretical understanding of deep learning, machine learning and data science. To gain hands on experience, I did projects using Machine Learning, A/B Testing, Deep Learning and Big Data. This repository is created to demonstrate a wide range of skills and knowledge in the field of Data Science.Thank you 🙂
+
+# :wrench: :carpentry_saw: My Skills:
+  
+I started learning python in my first semester which helped to understand data science and machine learning.I also learned R language which is one of the important languages in statistics and machine learning. Below is a list of skills that I have gained through my experience in the field of data science and machine learning. Learning these essential skills and techniques helped me to built and deployed projects successfully.
+
+
+
+
 
 
 
