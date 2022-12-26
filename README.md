@@ -2,11 +2,12 @@
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209529745-933f6c13-7127-4254-91ea-46ea559f023f.png" alt="my banner">
 </p>
 
-
+<h3 align=”center”>
 #                                                         Hi there, I'm Iqra Bismi 👋
+</h3>
 
 
-<a href=”https://www.linkedin.com/in/iqra-bismi/"><img align=”left” src=”https://raw.githubusercontent.com/iqrabismii/iqrabismii/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+
 
 <!--
 **iqrabismii/iqrabismii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
