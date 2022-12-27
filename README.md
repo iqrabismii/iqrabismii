@@ -63,7 +63,7 @@ I am have completed projects implementing different ML algorithms, NLP library a
 
 
 <p align= "left">
-<a href="https://leetcode.com/iqra2291/](https://github.com/iqrabismii/Bank-Customers-Churn-Prediction">
+<a href="https://github.com/iqrabismii/Bank-Customers-Churn-Prediction">
 <img width="400" height="200" src="https://user-images.githubusercontent.com/108056063/209590465-920c8954-d21f-4285-aaa2-194ec44eaf3a.png" alt="my banner">
 </p>  
 
