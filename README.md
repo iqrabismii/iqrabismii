@@ -41,7 +41,7 @@
  
 
 # About Me:
-I'm currently pursuing masters in Data Analytics from San Jose State University,Department of Applied Data Science. I have 4.5 years of experience in data modelling and data analysis. In addition to this, I completed courses such as Machine Learning Fundamentals, Natural Language Processing(NLP), Deep Learning, Big Data and Statistics from DataCamp, GeekForGeeks, Coursera and Udemy. These courses were helpful in gaining theoretical understanding of deep learning, machine learning and data science. To gain hands on experience, I did projects using Machine Learning, A/B Testing, Deep Learning and Big Data. This repository is created to demonstrate a wide range of skills and knowledge in the field of Data Science.Thank you 🙂
+I'm currently pursuing masters in Data Analytics from San Jose State University,Department of Applied Data Science. I have 4.5 years of experience in data modelling and data analysis. In addition to this, I completed courses such as Machine Learning Fundamentals, Natural Language Processing(NLP), Deep Learning, Big Data and Statistics from DataCamp, GeekForGeeks, Coursera and Udemy. These courses were helpful in gaining theoretical understanding of deep learning, machine learning and data science. To gain hands on experience, I did projects using Machine Learning, A/B Testing, Deep Learning and Big Data. This portfolio is created to demonstrate a wide range of skills and knowledge in the field of Data Science.Thank you 🙂
 
 # :wrench: :carpentry_saw: My Skills:
   
@@ -52,7 +52,7 @@ I started learning python in my first semester which helped to understand data s
 
 
 
-# My Projects Overview
+# :file_folder: :bookmark: My Portfolio Overview
 I am have completed projects implementing different ML algorithms, NLP library and statistical tests.Below is the summary of my projects.Please feel free to take a look. Thank you🙂
 
 <p align= "center">
