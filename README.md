@@ -66,7 +66,7 @@ I am have completed projects implementing different ML algorithms, NLP library a
 <a href="https://github.com/iqrabismii/Bank-Customers-Churn-Prediction">
 <img width="400" height="200" src="https://user-images.githubusercontent.com/108056063/209590465-920c8954-d21f-4285-aaa2-194ec44eaf3a.png" alt="my banner">
 <a>
-         
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    &nbsp; &nbsp; &nbsp; &nbsp;      
 <a href="https://github.com/iqrabismii/Case-Study-on-Gym-Fitnesss-Club-">
 <img width="300" height="200" src="https://user-images.githubusercontent.com/108056063/209591136-311e6caf-44e4-46bf-9a34-2c66f7f854c4.png" alt="my banner">
 </p> 
