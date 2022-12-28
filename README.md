@@ -54,26 +54,19 @@ I started learning python in my first semester which helped to understand data s
 
 
 
-# :file_folder: :bookmark: My Portfolio Overview
+## :file_folder: :bookmark: My Portfolio Overview
 I am have completed projects implementing different ML algorithms, NLP library and statistical tests.Below is the summary of my projects.Please feel free to take a look. Thank you🙂
 
 <p align= "center">
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209588905-800321de-6c0e-4f98-a124-3b13f979f60e.png" alt="my banner">
 </p>
   
-# <h1 align="center">Machine Learning Projects</h1>
+<h2 align = "center">  Machine Learning Projects </h2> 
 
 
-<p align= "left">
-<a href="https://github.com/iqrabismii/Bank-Customers-Churn-Prediction">
-<img width="400" height="200" src="https://user-images.githubusercontent.com/108056063/209590465-920c8954-d21f-4285-aaa2-194ec44eaf3a.png" alt="my banner">
-<a>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    &nbsp; &nbsp; &nbsp; &nbsp;      
-<a href="https://github.com/iqrabismii/Case-Study-on-Gym-Fitnesss-Club-">
-<img width="300" height="200" src="https://user-images.githubusercontent.com/108056063/209591136-311e6caf-44e4-46bf-9a34-2c66f7f854c4.png" alt="my banner">
-</p> 
-
- 
+|  [Bank Customers Churn Prediction Model](https://github.com/iqrabismii/Bank-Customers-Churn-Prediction)|  [Gym Members attendance Prediction Model](https://github.com/iqrabismii/Case-Study-on-Gym-Fitnesss-Club-)|
+| :-:| :-:| 
+| [<img src = "https://user-images.githubusercontent.com/108056063/209590465-920c8954-d21f-4285-aaa2-194ec44eaf3a.png" alt="my banner" width = 500 height = 300/>](https://github.com/iqrabismii/Bank-Customers-Churn-Prediction)| [<img src="https://user-images.githubusercontent.com/108056063/209591136-311e6caf-44e4-46bf-9a34-2c66f7f854c4.png" width = 500 height = 300/>](https://github.com/iqrabismii/Case-Study-on-Gym-Fitnesss-Club-)
 
 
 
