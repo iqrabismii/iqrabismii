@@ -68,10 +68,15 @@ I am have completed projects implementing different ML algorithms, NLP library a
 |  [Bank Customers Churn Prediction Model](https://github.com/iqrabismii/Bank-Customers-Churn-Prediction)|  [Gym Members attendance Prediction Model](https://github.com/iqrabismii/Case-Study-on-Gym-Fitnesss-Club-)|
 | :-:| :-:| 
 | [<img src = "https://user-images.githubusercontent.com/108056063/209590465-920c8954-d21f-4285-aaa2-194ec44eaf3a.png" alt="my banner" width = 500 height = 300/>](https://github.com/iqrabismii/Bank-Customers-Churn-Prediction)| [<img src="https://user-images.githubusercontent.com/108056063/209591136-311e6caf-44e4-46bf-9a34-2c66f7f854c4.png" width = 500 height = 300/>](https://github.com/iqrabismii/Case-Study-on-Gym-Fitnesss-Club-)
+  
+  
+<h2 align = "center">  Data Visualisation Projects </h2> 
 
-
-
-
+|  [Netflix Movies Analysis](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)|
+| :-:|
+| [<img src = "https://user-images.githubusercontent.com/108056063/210528212-80f34cfb-ab0e-4fad-a442-cac51600a87c.png" alt="my banner" width = 500 height = 300/>](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)|
+  
+ 
 
 
 
