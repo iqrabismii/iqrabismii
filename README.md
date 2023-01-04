@@ -65,18 +65,22 @@ I am have completed projects implementing different ML algorithms, NLP library a
 <h2 align = "center">  Machine Learning Projects </h2> 
 
 
-|  [Bank Customers Churn Prediction Model](https://github.com/iqrabismii/Bank-Customers-Churn-Prediction)|  [Gym Members attendance Prediction Model](https://github.com/iqrabismii/Case-Study-on-Gym-Fitnesss-Club-)|
+|  [Bank Customers Churn Prediction Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/BankCustomerChurnPrediction)|  [Gym Members attendance Prediction Model](https://github.com/iqrabismii/Bank-Customers-Churn-Prediction)|
 | :-:| :-:| 
-| [<img src = "https://user-images.githubusercontent.com/108056063/209590465-920c8954-d21f-4285-aaa2-194ec44eaf3a.png" alt="my banner" width = 500 height = 300/>](https://github.com/iqrabismii/Bank-Customers-Churn-Prediction)| [<img src="https://user-images.githubusercontent.com/108056063/209591136-311e6caf-44e4-46bf-9a34-2c66f7f854c4.png" width = 500 height = 300/>](https://github.com/iqrabismii/Case-Study-on-Gym-Fitnesss-Club-)
-  
+| [<img src = "https://user-images.githubusercontent.com/108056063/209590465-920c8954-d21f-4285-aaa2-194ec44eaf3a.png" alt="my banner" width = 500 height = 300/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/BankCustomerChurnPrediction)| [<img src="https://user-images.githubusercontent.com/108056063/209591136-311e6caf-44e4-46bf-9a34-2c66f7f854c4.png" width = 500 height = 300/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/BankCustomerChurnPrediction)|
+
+|  [RFM Cluster Analysis and Item Recommendation](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/Item_Recommendation)|
+| :-:|
+| [<img src = "https://user-images.githubusercontent.com/108056063/210529275-eeed04fa-0157-427b-b115-7638dc1e64e2.png" alt="my banner" width = 480 height = 300/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/Item_Recommendation)|  
   
 <h2 align = "center">  Data Visualisation Projects </h2> 
 
 |  [Netflix Movies Analysis](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)|
 | :-:|
-| [<img src = "https://user-images.githubusercontent.com/108056063/210528212-80f34cfb-ab0e-4fad-a442-cac51600a87c.png" alt="my banner" width = 500 height = 300/>](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)|
+| [<img src = "https://user-images.githubusercontent.com/108056063/210528212-80f34cfb-ab0e-4fad-a442-cac51600a87c.png" alt="my banner" width = 480 height = 300/>](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)|
   
  
+
 
 
 
