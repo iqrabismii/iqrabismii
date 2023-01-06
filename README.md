@@ -2,51 +2,29 @@
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209743784-547e6057-7bcc-4817-836b-5400d92dbe1c.png" alt="my banner">
 </p>
 
+<h1 align = "center">Hi there, I'm Iqra Bismi👋</h1>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-bismi/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/iqrabismi) [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iqra.bismi) [![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://app.datacamp.com/profile/iqra2291)
+[![](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)](https://stellarpeers.com/profile/)
+[![](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/iqra2291/)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/iqra_bismi)
 
 
 
-
-#                                                         Hi there, I'm Iqra Bismi 👋
-<a>
-<a href="https://www.linkedin.com/in/iqra-bismi/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt='Iqra Bismi | LinkedIn'width="130px"/>
-</a>
-
-<a>
-<a href="https://medium.com/@iqra.bismi"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt='Iqra Bismi | Medium'width="110px"/>
-</a> 
-
-<a>
-<a href="https://app.datacamp.com/profile/iqra2291"><img align="left" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt='Iqra Bismi | DataCamp'width="130px"/>
-</a>  
-
-<a>
-<a href="https://stellarpeers.com/profile/"><img align="left" src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white" alt='Iqra Bismi | Stellar' width="115px"/>
-</a>  
-  
-<a>
-<a href="https://leetcode.com/iqra2291/"><img align="left" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt='Iqra Bismi | LeetCode'width="130px"/>
-</a>
-<br />
-<br />
-<a>
-<a href="https://www.hackerrank.com/iqra_bismi"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt='Iqra Bismi | HackerRank'width="150px"/>
-</a> 
-
-<br />
-<br />
-<br />
-<br />
-     I am passionate about data science and machine learning. With the proliferation of data in today's digital age, data science has become a crucial tool for businesses, governments, and other organizations to understand and analyze complex data sets in order to make better decisions, improve operations, and drive growth. I have gained in depth-knowledge in this field by taking online courses, reading relavant books and articles about machine learning, statistics and data science.  
+I am passionate about __Data Science__, __Data Engineering__ and __Machine Learning__. With the proliferation of data in today's digital age, data science has become a crucial tool for businesses, governments, and other organizations to understand and analyze complex data sets in order to make better decisions, improve operations, and drive growth. I have gained in depth-knowledge in __Data Science__, __Data Engineering__ and __Machine Learning__ by taking online courses, reading relavant books and articles about __Big Data__ solutions, __Machine Learning__, __Statistics__ and __Data Science__.  
 
 <p align= "center">
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209587586-9c1e2aa9-082c-4389-9718-63155fabaf0e.png" alt="my banner">
 </p>
  
 
-# About Me:
-I'm currently pursuing masters in Data Analytics from San Jose State University,Department of Applied Data Science. I have 4.5 years of experience in data modelling and data analysis. In addition to this, I completed courses such as Machine Learning Fundamentals, Natural Language Processing(NLP), Deep Learning, Big Data and Statistics from DataCamp, GeekForGeeks, Coursera and Udemy. These courses were helpful in gaining theoretical understanding of deep learning, machine learning and data science. To gain hands on experience, I did projects using Machine Learning, A/B Testing, Deep Learning and Big Data. This portfolio is created to demonstrate a wide range of skills and knowledge in the field of Data Science.Thank you 🙂
+<h2> About Me: </h2>
 
-# :wrench: :carpentry_saw: My Skills:
+I'm currently pursuing  __Masters__  in __Data Analytics__ from __San Jose State University__,Department of Applied Data Science. I have 4.5 years of experience in data modelling and data analysis. In addition to this, I completed courses such as __Machine Learning Fundamentals__, __Natural Language Processing(NLP)__, __Deep Learning__, __Big Data__ and __Statistics__ from DataCamp, GeekForGeeks, Coursera and Udemy. These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. To gain hands on experience, I worked on projects ranging from __retail__,__banking__,__movies__ and __automobile__ industries.   
+I am always eager to learn and expand my knowledge in these fields, and I have a passion for using data and technology to make a positive impact. My portfolio on GitHub showcases a selection of my projects and experiences, and demonstrates my capabilities as a data science and machine learning professional.Whether it's through building predictive models or developing data pipelines, I am dedicated to using my skills to drive innovation and solve complex problems. I am excited to share my work with others and contribute to the data science and machine learning community. Thank you for considering my portfolio.🙂
+
+
+<h2>:wrench: :carpentry_saw: My Skills:</h2>
   
 I started learning python in my first semester which helped to understand data science and machine learning.I also learned R language which is one of the important languages in statistics and machine learning. Below is a list of skills that I have gained through my experience in the field of data science and machine learning. Learning these essential skills and techniques helped me to built and deployed projects successfully.
 <br>
@@ -56,7 +34,7 @@ I started learning python in my first semester which helped to understand data s
 
 
 ## :file_folder: :bookmark: My Portfolio Overview
-I am have completed projects implementing different ML algorithms, NLP library and statistical tests.Below is the summary of my projects.Please feel free to take a look. Thank you🙂
+Thank you for visiting my portfolio! I have had an awesome experience working on machine learning and deep learning projects and am excited to share them with you. Please find below links to my projects. For more detailed information about each project, including results and descriptions, please scroll to the end of this website. Below is a summary of my entire portfolio. Thank you for considering my work.🙂
 
 <p align= "center">
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209588905-800321de-6c0e-4f98-a124-3b13f979f60e.png" alt="my banner">
