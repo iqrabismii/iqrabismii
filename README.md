@@ -47,17 +47,18 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 | :-:| :-:| 
 | [<img src = "https://user-images.githubusercontent.com/108056063/209590465-920c8954-d21f-4285-aaa2-194ec44eaf3a.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/BankCustomerChurnPrediction)| [<img src="https://user-images.githubusercontent.com/108056063/209591136-311e6caf-44e4-46bf-9a34-2c66f7f854c4.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/BankCustomerChurnPrediction)|
 
-|  [RFM Cluster Analysis and Item Recommendation](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/Item_Recommendation)|
-| :-:|
-| [<img src = "https://user-images.githubusercontent.com/108056063/210529275-eeed04fa-0157-427b-b115-7638dc1e64e2.png" alt="my banner" width = 400 height = 300/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/Item_Recommendation)|  
-  
+
+| [RFM Analysis and Customer Segmentation](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/Item_Recommendation)| [Market Basket Analysis for Grocery Store](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)|
+| :-:| :-:| 
+| [<img src = "https://user-images.githubusercontent.com/108056063/211170771-b0c38d9e-99f2-4d73-ba6b-931f2daf2e7d.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/Item_Recommendation)| [<img src = "https://user-images.githubusercontent.com/108056063/211170736-f061d322-02e1-4c78-af31-df364256558a.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)
+
+
 <h2 align = "center">  Data Visualisation Projects </h2> 
 
-|  [Netflix Movies Analysis](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)|
-| :-:|
-| [<img src = "https://user-images.githubusercontent.com/108056063/210528212-80f34cfb-ab0e-4fad-a442-cac51600a87c.png" alt="my banner" width = 480 height = 300/>](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)|
-  
  
+
+| [<img src = "https://user-images.githubusercontent.com/108056063/210528212-80f34cfb-ab0e-4fad-a442-cac51600a87c.png" width = 500 height = 300/>](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)| 
+
 
 
 
