@@ -134,7 +134,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
  
 
-## 🖥  Assignments and Coursework 
+## Assignments and Coursework 
 
 &emsp;📙 [__DATA-245 Machine Learning__](https://github.com/iqrabismii/Machine-Learning-Assignments/tree/main)
 
@@ -162,7 +162,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; &emsp;&emsp; 📖 [__Homework 5__](https://github.com/iqrabismii/Big-Data-Assignments/blob/main/BigDataAssignments/DATA%20228_BigData_Homework_5_Data%20Artists.docx)
 
 
-## 🖥 My Competencies
+## Competencies
 
 &emsp;&emsp; :woman_teacher: __Leadership Skills__ <br>
 &emsp;&emsp; :woman_teacher: __Biased for Action__ <br>
@@ -173,7 +173,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; :woman_teacher:  __Time Management__ <br>
 
  
-## :file_folder: Blogs On Medium
+##  Blogs On Medium
 
 &emsp;&emsp; 📃 [__Learn Python in 30 Days__](https://medium.com/@iqra.bismi/how-to-learn-python-in-30-days-93ec120ac9a3)
 
@@ -183,7 +183,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 &emsp;&emsp; 📃 [__Hyper-Parameter Tuning for Machine Learning Models Using Optuna__](https://medium.com/@iqra.bismi/hyper-parameter-tuning-of-machine-learning-models-using-optuna-f1905547937f)
  
-## :iphone: My Contact Information
+## Contact Information
 
 &emsp;&emsp; 📱 __Phone No:__ __669-230-9604__
 
