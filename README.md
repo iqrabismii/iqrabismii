@@ -85,7 +85,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 &emsp; [__Intern__](https://github.com/iqrabismii/Work-Experience/blob/main/Intern%2C%20Wipro%20Ltd%20%2C%20India.MD) | [__Wipro Ltd__](https://www.wipro.com/) __[April 2017 - June 2017]__
 
-&emsp; [__TA (Natural Language Processing)__](https://github.com/iqrabismii/Work-Experience/blob/main/SAP%20Consultant%2C%20Tata%20Consultancy%20Services%20Ltd%2C%20India.MD) | [__Tata Consultancy Services Ltd__](https://www.tcs.com/) __[September 2014 - June 2016]__
+&emsp; [__SAP Consultant__](https://github.com/iqrabismii/Work-Experience/blob/main/SAP%20Consultant%2C%20Tata%20Consultancy%20Services%20Ltd%2C%20India.MD) | [__Tata Consultancy Services Ltd__](https://www.tcs.com/) __[September 2014 - June 2016]__
 
 
 
