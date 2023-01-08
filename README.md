@@ -59,6 +59,28 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 | [<img src = "https://user-images.githubusercontent.com/108056063/210528212-80f34cfb-ab0e-4fad-a442-cac51600a87c.png" width = 500 height = 300/>](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)| 
 
+ 
+ 
+## Education 
+
+&emsp; __Masters in Data Analytics__ | [__San Jose State University, San Jose, California__](https://www.sjsu.edu/) __[Jan 2022 - December 2023]__
+
+&emsp;  __Master of Business Administration__ | [__Indian Institute of Management, Ranchi, India__](https://www.iimranchi.ac.in/)__[June 2016 - Feb 2018]__
+
+&emsp;  __Bachelor of Technology__ | [__Govind Ballabh Pant University, India__](https://www.gbpuat.ac.in/)__[August 2010 - June 2014]__
+
+
+ 
+
+## Work Experience 
+
+&emsp;  [__Senior Executive__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Oil and Natural Gas Corporation Ltd__](https://www.ongcindia.com/) __[July 2018 - April 2021]__
+
+&emsp; [__Intern__](https://github.com/iqrabismii/Work-Experience/blob/main/Intern%2C%20Wipro%20Ltd%20%2C%20India.MD) | [__Wipro Ltd__](https://www.wipro.com/) __[April 2017 - June 2017]__
+
+&emsp; [__TA (Natural Language Processing)__](https://github.com/iqrabismii/Work-Experience/blob/main/SAP%20Consultant%2C%20Tata%20Consultancy%20Services%20Ltd%2C%20India.MD) | [__Tata Consultancy Services Ltd__](https://www.tcs.com/) __[September 2014 - June 2016]__
+
+
 
 
 
