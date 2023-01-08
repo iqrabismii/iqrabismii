@@ -69,6 +69,10 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 &emsp;  __Bachelor of Technology__ | [__Govind Ballabh Pant University, India__](https://www.gbpuat.ac.in/)__[August 2010 - June 2014]__
 
+## List of Certifications
+ 
+&emsp; [__Machine Learning for Time Series Data in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/MachineLearningForTimeSeriesDataInPython.pdf)
+
 
  
 
