@@ -78,7 +78,38 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp; [__Supervised Machine Learning with Scikit-Learn__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/SupervisedLearningWith_ScikitLearn.pdf)
  
 &emsp; [__Customer Churn Prediction in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/PredictingCustomerChurn_Python.pdf)
+ 
+&emsp; [__ARIMA Models in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/ARIMA_Models_in_Python.pdf)
+ 
+&emsp; [__Hypothesis Testing in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/HypothesisTesting_in_Python.pdf)
 
+&emsp; [__Customer Analytics and A/B Test in Python__![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](hhttps://github.com/iqrabismii/Statistics-Certification/blob/main/Customer_Analytics_and_ABTestinginPython.pdf)
+ 
+&emsp; [__Intermediate Regression with Statsmodels in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Intermediate_Regression_with_Statsmodels_in_Python.pdf)
+ 
+&emsp; [__Introduction to Regression with Statsmodels in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Introduction_to_Regression_with_Statsmodels_in_Python.pdf)
+ 
+&emsp; [__Introduction to Statistics in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Introduction_to_Statistics_in_Python.pdf)
+ 
+ 
+&emsp; [__Sampling Techniques in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Sampling_In_Python.pdf)
+ 
+&emsp; [__Statistics Fundamentals in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Statistics_Fundamentals_in_Python.pdf)
+
+&emsp; [__Big Data Fundamentals with Pyspark__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/BigData_fundamentals_with_Pyspark.pdf)
+ 
+&emsp; [__Building Recommendation System with Pyspark__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/Building_RecommendationSytem_with_Pyspark.pdf)
+ 
+&emsp; [__Learning Hadoop__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/CertificateOfCompletion_Learning_Hadoop.pdf)
+ 
+&emsp; [__Data Cleaning Using Pyspark__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/DataCleaning_using_Pyspark.pdf)
+ 
+&emsp; [__Introduction to Airflow in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/Introduction_to_Airflow_in_Python.pdf)
+
+&emsp; [__Understanding Data Engineering__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/Understanding_DataEngineering.pdf)
+ 
+
+ 
 ## Work Experience 
 
 &emsp;  [__Senior Executive__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Oil and Natural Gas Corporation Ltd__](https://www.ongcindia.com/) __[July 2018 - April 2021]__
