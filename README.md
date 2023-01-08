@@ -34,7 +34,7 @@ I started learning python in my first semester which helped to understand data s
 
 
 ## :file_folder: :bookmark: My Portfolio Overview
-Thank you for visiting my portfolio! I have had an awesome experience working on machine learning and deep learning projects and am excited to share them with you. Please find below links to my projects. For more detailed information about each project, including results and descriptions, please scroll to the end of this website. Below is a summary of my entire portfolio. Thank you for considering my work.🙂
+Thank you for visiting my portfolio! I have had an awesome experience working on machine learning and deep learning projects and am excited to share them with you. Please find below links to my projects. For more detailed information about each project, including results and descriptions, please click on the project link. Below is a summary of my entire portfolio. Thank you for considering my work.🙂
 
 <p align= "center">
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209588905-800321de-6c0e-4f98-a124-3b13f979f60e.png" alt="my banner">
@@ -161,6 +161,37 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 &emsp;&emsp; &emsp;&emsp; 📖 [__Homework 5__](https://github.com/iqrabismii/Big-Data-Assignments/blob/main/BigDataAssignments/DATA%20228_BigData_Homework_5_Data%20Artists.docx)
 
+
+## 🖥 My Competencies
+
+&emsp;&emsp; :woman_teacher: __Leadership Skills__ <br>
+&emsp;&emsp; :woman_teacher: __Biased for Action__ <br>
+&emsp;&emsp; :woman_teacher: __Communication Skills__ <br>
+&emsp;&emsp; :woman_teacher: __Team Work__ <br>
+&emsp;&emsp; :woman_teacher: __Curios__ <br>
+&emsp;&emsp; :woman_teacher:  __Problem-solving Skills__ <br>
+&emsp;&emsp; :woman_teacher:  __Time Management__ <br>
+
+ 
+## :file_folder: Blogs On Medium
+
+&emsp;&emsp; 📃 [__Learn Python in 30 Days__](https://medium.com/@iqra.bismi/how-to-learn-python-in-30-days-93ec120ac9a3)
+
+&emsp;&emsp; 📃 [__How to Prepare for SQL Interviews in 15 Days__](https://medium.com/@iqra.bismi/tips-to-ace-sql-interview-fc9cd6a3f365)
+
+&emsp;&emsp; 📃 [__What is Dummy Variable Trap and How it can be avoided?__](https://medium.com/@iqra.bismi/what-is-dummy-variable-trap-and-how-it-can-be-avoided-f9a34cd997df)
+
+&emsp;&emsp; 📃 [__Hyper-Parameter Tuning for Machine Learning Models Using Optuna__](https://medium.com/@iqra.bismi/hyper-parameter-tuning-of-machine-learning-models-using-optuna-f1905547937f)
+ 
+## :iphone: My Contact Information
+
+&emsp;&emsp; 📱 __Phone No:__ __669-230-9604__
+
+&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/iqra-bismi/__
+
+&emsp;&emsp; 📫 __Email:__ __iqra.bismi@sjsu.edu__
+
+&emsp;&emsp; ✍🏻 __Medium:__ __https://medium.com/@iqra.bismi__
 
 
 
