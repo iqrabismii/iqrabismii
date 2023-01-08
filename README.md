@@ -83,7 +83,8 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 &emsp; [__Hypothesis Testing in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/HypothesisTesting_in_Python.pdf)
 
-&emsp; [__Customer Analytics and A/B Test in Python__![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](hhttps://github.com/iqrabismii/Statistics-Certification/blob/main/Customer_Analytics_and_ABTestinginPython.pdf)
+&emsp; [__Customer Analytics and A/B Test in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Customer_Analytics_and_ABTestinginPython.pdf)
+
  
 &emsp; [__Intermediate Regression with Statsmodels in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Intermediate_Regression_with_Statsmodels_in_Python.pdf)
  
@@ -107,6 +108,8 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp; [__Introduction to Airflow in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/Introduction_to_Airflow_in_Python.pdf)
 
 &emsp; [__Understanding Data Engineering__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/Understanding_DataEngineering.pdf)
+ 
+
  
 
  
