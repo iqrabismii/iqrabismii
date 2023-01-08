@@ -73,8 +73,11 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 &emsp; [__Machine Learning for Time Series Data in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/MachineLearningForTimeSeriesDataInPython.pdf)
 
+&emsp; [__Market Basket Analysis in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/MarketBasketAnalysis_in_Python.pdf)
 
+&emsp; [__Supervised Machine Learning with Scikit-Learn__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/SupervisedLearningWith_ScikitLearn.pdf)
  
+&emsp; [__Customer Churn Prediction in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/PredictingCustomerChurn_Python.pdf)
 
 ## Work Experience 
 
