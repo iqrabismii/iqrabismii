@@ -11,7 +11,7 @@
 
 
 
-I am passionate about __Data Science__, __Data Engineering__ and __Machine Learning__. With the proliferation of data in today's digital age, data science has become a crucial tool for businesses, governments, and other organizations to understand and analyze complex data sets in order to make better decisions, improve operations, and drive growth. I have gained in depth-knowledge in __Data Science__, __Data Engineering__ and __Machine Learning__ by taking online courses, reading relavant books and articles about __Big Data__ solutions, __Machine Learning__, __Statistics__ and __Data Science__.  
+I am passionate about __Data Science__ and __Machine Learning__. With the proliferation of data in today's digital age, data science has become a crucial tool for businesses, governments, and other organizations to understand and analyze complex data sets in order to make better decisions, improve operations, and drive growth. I have gained in depth-knowledge in __Data Science__and __Machine Learning__ by taking online courses, reading relavant books and articles about __Big Data Analytics__, __Machine Learning__, __Statistics__ and __Data Science__.  
 
 <p align= "center">
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/209587586-9c1e2aa9-082c-4389-9718-63155fabaf0e.png" alt="my banner">
@@ -131,8 +131,35 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp; :computer: [__Intern__](https://github.com/iqrabismii/Work-Experience/blob/main/Intern%2C%20Wipro%20Ltd%20%2C%20India.MD) | [__Wipro Ltd__](https://www.wipro.com/) __[April 2017 - June 2017]__
 
 &emsp; :computer: [__SAP Consultant__](https://github.com/iqrabismii/Work-Experience/blob/main/SAP%20Consultant%2C%20Tata%20Consultancy%20Services%20Ltd%2C%20India.MD) | [__Tata Consultancy Services Ltd__](https://www.tcs.com/) __[September 2014 - June 2016]__
+ 
+ 
 
+## 🖥  Assignments and Coursework 
 
+&emsp;📙 [__DATA-245 Machine Learning__](https://github.com/iqrabismii/Machine-Learning-Assignments/tree/main)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 1__](https://github.com/iqrabismii/Machine-Learning-Assignments/blob/main/0160139842_data_exploration.pdf)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 2__](https://github.com/iqrabismii/Machine-Learning-Assignments/blob/main/HW2_016039842.pdf)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 3__](https://github.com/iqrabismii/Machine-Learning-Assignments/blob/main/HW3_KNN_016039842.pdf)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 4__](https://github.com/iqrabismii/Machine-Learning-Assignments/blob/main/HW4_016039842.pdf)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 5__](https://github.com/iqrabismii/Machine-Learning-Assignments/blob/main/HW5_ErrorBasedEvaluation_016039842.pdf)
+ 
+
+&emsp; 📙 [__DATA-228 Big Data__](https://github.com/iqrabismii/Big-Data-Assignments/tree/main/BigDataAssignments)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 1__](https://github.com/iqrabismii/Big-Data-Assignments/blob/main/BigDataAssignments/DATA%20228_BigData_Homework_1_Data%20Artists%20(1).pdf)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 2__](https://github.com/iqrabismii/Big-Data-Assignments/blob/main/BigDataAssignments/DATA%20228_BigData_Homework_2_Data%20Artists%20(1).pdf)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 3__](https://github.com/iqrabismii/Big-Data-Assignments/blob/main/BigDataAssignments/DATA%20228_BigData_Homework_3_Data%20Artists%20(1).docx)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 4__](https://github.com/iqrabismii/Big-Data-Assignments/blob/main/BigDataAssignments/DATA%20228_BigData_Homework_4_Data%20Artists.docx)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 5__](https://github.com/iqrabismii/Big-Data-Assignments/blob/main/BigDataAssignments/DATA%20228_BigData_Homework_5_Data%20Artists.docx)
 
 
 
