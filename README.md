@@ -182,6 +182,8 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; 📃 [__What is Dummy Variable Trap and How it can be avoided?__](https://medium.com/@iqra.bismi/what-is-dummy-variable-trap-and-how-it-can-be-avoided-f9a34cd997df)
 
 &emsp;&emsp; 📃 [__Hyper-Parameter Tuning for Machine Learning Models Using Optuna__](https://medium.com/@iqra.bismi/hyper-parameter-tuning-of-machine-learning-models-using-optuna-f1905547937f)
+
+&emsp;&emsp; 📃 [__Detecting and Resolving Duplicate Records using Record Linkage__](https://medium.com/@iqra.bismi/detecting-and-resolving-duplicate-records-using-record-linkage-937eea4288fb)
  
 ## Contact Information
 
