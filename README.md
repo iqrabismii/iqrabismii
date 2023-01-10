@@ -184,6 +184,8 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; 📃 [__Hyper-Parameter Tuning for Machine Learning Models Using Optuna__](https://medium.com/@iqra.bismi/hyper-parameter-tuning-of-machine-learning-models-using-optuna-f1905547937f)
 
 &emsp;&emsp; 📃 [__Detecting and Resolving Duplicate Records using Record Linkage__](https://medium.com/@iqra.bismi/detecting-and-resolving-duplicate-records-using-record-linkage-937eea4288fb)
+
+&emsp;&emsp; 📃 [__Two Simple Tests to check Normality of the data__](https://medium.com/@iqra.bismi/two-simple-tests-to-check-normality-of-the-data-a81989654109)
  
 ## Contact Information
 
