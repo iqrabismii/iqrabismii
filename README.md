@@ -52,11 +52,12 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 | :-:| :-:| 
 | [<img src = "https://user-images.githubusercontent.com/108056063/211170771-b0c38d9e-99f2-4d73-ba6b-931f2daf2e7d.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/Item_Recommendation)| [<img src = "https://user-images.githubusercontent.com/108056063/211170736-f061d322-02e1-4c78-af31-df364256558a.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)
 
-| [Movies Recommendation System](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [Market Basket Analysis for Grocery Store](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)|
+| [Movies Recommendation System](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [Collaborative Filtering for Movies using Matrix Factorisation](https://github.com/iqrabismii/MoviesRecommendationSystem/tree/main/CFBasedRecommendation)|
 | :-:| :-:| 
-| [<img src = "https://user-images.githubusercontent.com/108056063/212184587-8a40c19d-bf2a-46c2-870b-b1d3431341fc.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [<img src = "https://user-images.githubusercontent.com/108056063/211170736-f061d322-02e1-4c78-af31-df364256558a.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)
+| [<img src = "https://user-images.githubusercontent.com/108056063/212184587-8a40c19d-bf2a-46c2-870b-b1d3431341fc.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [<img src = "https://user-images.githubusercontent.com/108056063/212286229-2e49f5aa-b033-4064-8037-1000d5984c29.png" width = 500 height = 250/>](https://github.com/iqrabismii/MoviesRecommendationSystem/tree/main/CFBasedRecommendation)
 
 <h2 align = "center">  Data Visualisation Projects </h2> 
+
 
 
 
