@@ -64,8 +64,8 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 <h2 align = "center">  Big Data Projects </h2> 
 
-#### [Analyzing Customer Shopping Behavior for Ecommerce Industry](https://github.com/iqrabismii/Big-Data-Projects-/blob/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-/README.MD)
-[<img src = "https://user-images.githubusercontent.com/108056063/213788030-d38c5f4b-abe3-4608-8f3e-09b0fe8ca8e7.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/blob/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-/README.MD)
+#### [Analyzing Customer Shopping Behavior for Ecommerce Industry](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-)
+[<img src = "https://user-images.githubusercontent.com/108056063/213788030-d38c5f4b-abe3-4608-8f3e-09b0fe8ca8e7.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-)
 
 
 
