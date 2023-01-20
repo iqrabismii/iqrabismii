@@ -55,11 +55,6 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 | [Movies Recommendation System](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [Collaborative Filtering for Movies using Matrix Factorisation](https://github.com/iqrabismii/MoviesRecommendationSystem/tree/main/CFBasedRecommendation)|
 | :-:| :-:| 
 | [<img src = "https://user-images.githubusercontent.com/108056063/212184587-8a40c19d-bf2a-46c2-870b-b1d3431341fc.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [<img src = "https://user-images.githubusercontent.com/108056063/212286229-2e49f5aa-b033-4064-8037-1000d5984c29.png" width = 500 height = 250/>](https://github.com/iqrabismii/MoviesRecommendationSystem/tree/main/CFBasedRecommendation)
-
-<h2 align = "center">  Data Visualisation Projects </h2> 
-
-
-| [<img src = "https://user-images.githubusercontent.com/108056063/210528212-80f34cfb-ab0e-4fad-a442-cac51600a87c.png" width = 500 height = 300/>](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)| 
  
 
 <h2 align = "center">  Big Data Projects </h2> 
@@ -67,14 +62,27 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 #### [Analyzing Customer Shopping Behavior for Ecommerce Industry](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-)
 [<img src = "https://user-images.githubusercontent.com/108056063/213788030-d38c5f4b-abe3-4608-8f3e-09b0fe8ca8e7.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-)
 
-
-
-
  
  | [Analysing Car's Performance using Pyspark](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/CarsPerformanceAnalysis_UsingPyspark)| [End to End ML Model Using Pyspark](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/End-to-End-ML-model-using-Pyspark)|
 | :-:| :-:| 
 | [<img src = "https://user-images.githubusercontent.com/108056063/212295979-0a771f8c-a43b-44d9-ac3e-d52be4bfb9db.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/CarsPerformanceAnalysis_UsingPyspark)| [<img src = "https://user-images.githubusercontent.com/108056063/212296507-4d1d1786-48ce-4067-802f-94b4819410cd.png" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/End-to-End-ML-model-using-Pyspark)
+ 
 
+<h2 align = "center"> 🖥 Data Mining Projects </h2> 
+
+|  [Market Basket Analysis for Grocery Store](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)|
+| :-: |
+| [<img src = "https://user-images.githubusercontent.com/108056063/211170736-f061d322-02e1-4c78-af31-df364256558a.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)|
+
+<hr style="border:0.01px solid blue">
+ 
+ 
+
+ 
+ <h2 align = "center">  Data Visualisation Projects </h2> 
+
+
+| [<img src = "https://user-images.githubusercontent.com/108056063/210528212-80f34cfb-ab0e-4fad-a442-cac51600a87c.png" width = 500 height = 300/>](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)| 
 
 
  
