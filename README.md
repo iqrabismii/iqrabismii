@@ -33,7 +33,7 @@ I started learning python in my first semester which helped to understand data s
 
 
 
-## :file_folder: :bookmark: My Portfolio Overview
+## :file_folder: :bookmark: Portfolio Overview
 Thank you for visiting my portfolio! I have had an awesome experience working on machine learning and deep learning projects and am excited to share them with you. Please find below links to my projects. For more detailed information about each project, including results and descriptions, please click on the project link. Below is a summary of my entire portfolio. Thank you for considering my work.🙂
 
 <p align= "center">
