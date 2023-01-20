@@ -63,10 +63,18 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 
 <h2 align = "center">  Big Data Projects </h2> 
+
+#### [Analyzing Customer Shopping Behavior for Ecommerce Industry](https://github.com/iqrabismii/Big-Data-Projects-/blob/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-/README.MD)
+[<img src = "https://user-images.githubusercontent.com/108056063/213788030-d38c5f4b-abe3-4608-8f3e-09b0fe8ca8e7.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/blob/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-/README.MD)
+
+
+
+
  
  | [Analysing Car's Performance using Pyspark](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/CarsPerformanceAnalysis_UsingPyspark)| [End to End ML Model Using Pyspark](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/End-to-End-ML-model-using-Pyspark)|
 | :-:| :-:| 
 | [<img src = "https://user-images.githubusercontent.com/108056063/212295979-0a771f8c-a43b-44d9-ac3e-d52be4bfb9db.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/CarsPerformanceAnalysis_UsingPyspark)| [<img src = "https://user-images.githubusercontent.com/108056063/212296507-4d1d1786-48ce-4067-802f-94b4819410cd.png" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/End-to-End-ML-model-using-Pyspark)
+
 
 
  
