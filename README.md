@@ -96,7 +96,6 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 |  [Netflix Movies Analysis](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)|
 | :-: |
-
 | [<img src = "https://user-images.githubusercontent.com/108056063/210528212-80f34cfb-ab0e-4fad-a442-cac51600a87c.png" width = 500 height = 300/>](https://github.com/iqrabismii/Data-Visualisation-Project/tree/main/AnalysisOnNetflixMovies)| 
 <hr style="border:0.01px solid blue">
  
