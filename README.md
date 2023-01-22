@@ -67,8 +67,23 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 | :-:| :-:| 
 | [<img src = "https://user-images.githubusercontent.com/108056063/212295979-0a771f8c-a43b-44d9-ac3e-d52be4bfb9db.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/CarsPerformanceAnalysis_UsingPyspark)| [<img src = "https://user-images.githubusercontent.com/108056063/212296507-4d1d1786-48ce-4067-802f-94b4819410cd.png" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/End-to-End-ML-model-using-Pyspark)
  
+ 
 
-<h2 align = "center"> 🖥 Data Mining Projects </h2> 
+ 
+<h2 align = "center"> Natural Language Processing (NLP) Projects </h2> 
+
+|  [Twitter Sentiment Analysis ](https://github.com/iqrabismii/Twitter-Sentiment-Analysis-for-Various-Health-Issues)|
+| :-: |
+| [<img src = "https://user-images.githubusercontent.com/108056063/213907438-fefe9986-d909-4bdb-b087-4c1f983a129f.png" width = 500 height = 250/>](https://github.com/iqrabismii/Twitter-Sentiment-Analysis-for-Various-Health-Issues)|
+ 
+ 
+ 
+
+ 
+
+<hr style="border:0.01px solid blue">
+
+<h2 align = "center"> Data Mining Projects </h2> 
 
 |  [Market Basket Analysis for Grocery Store](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)|
 | :-: |
@@ -77,7 +92,17 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 <hr style="border:0.01px solid blue">
  
  
+ 
+<h2 align = "center"> SQL Case Study</h2> 
 
+|  [8 Week SQL Challenge ](https://github.com/iqrabismii/8-Week-SQL-Challenge)|
+| :-: |
+| [<img src = "https://user-images.githubusercontent.com/108056063/213907299-9fb0d80e-3493-4717-b156-bef28b689c3c.png" width = 500 height = 250/>](https://github.com/iqrabismii/8-Week-SQL-Challenge)|
+ 
+
+<hr style="border:0.01px solid blue">
+ 
+ 
  
  <h2 align = "center">  Data Visualisation Projects </h2> 
 
