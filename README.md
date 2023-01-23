@@ -108,14 +108,14 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 <h2 align = "center"> SQL Case Study</h2> 
 
-|  [8 Week SQL Challenge ](https://github.com/iqrabismii/8-Week-SQL-Challenge)|
+|  [Danny's Diner Case Study ](https://github.com/iqrabismii/8-Week-SQL-Challenge/tree/main/Dannys_diner_case_study)|
 | :-: |
-| [<img src = "https://user-images.githubusercontent.com/108056063/213907299-9fb0d80e-3493-4717-b156-bef28b689c3c.png" width = 500 height = 250/>](https://github.com/iqrabismii/8-Week-SQL-Challenge)|
+| [<img src = "https://user-images.githubusercontent.com/108056063/214137731-68d14ccd-612b-472f-96a6-e45f2efaa45a.png" width = 500 height = 300/>](https://github.com/iqrabismii/8-Week-SQL-Challenge/tree/main/Dannys_diner_case_study)|
  
 
 <hr style="border:0.01px solid blue">
  
- 
+
  
  
 
