@@ -74,10 +74,14 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 <h2 align = "center"> Natural Language Processing (NLP) Projects </h2> 
 
-|  [Twitter Sentiment Analysis ](https://github.com/iqrabismii/Twitter-Sentiment-Analysis-for-Various-Health-Issues)|
-| :-: |
-| [<img src = "https://user-images.githubusercontent.com/108056063/213907438-fefe9986-d909-4bdb-b087-4c1f983a129f.png" width = 500 height = 250/>](https://github.com/iqrabismii/Twitter-Sentiment-Analysis-for-Various-Health-Issues)|
- 
+
+| [Twitter Sentiment Analysis ](https://github.com/iqrabismii/Twitter-Sentiment-Analysis-for-Various-Health-Issues)| [Extracting Stock Sentiment from News Headlines](https://github.com/iqrabismii/Stock-Sentiment-from-News-Headlines)|
+| :-:| :-:| 
+| [<img src = "https://user-images.githubusercontent.com/108056063/213907438-fefe9986-d909-4bdb-b087-4c1f983a129f.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Twitter-Sentiment-Analysis-for-Various-Health-Issues)| [<img src = "https://user-images.githubusercontent.com/108056063/213995982-b35937ce-3cb4-4b3e-8c0e-d174643c0aaa.png" width = 500 height = 250/>](https://github.com/iqrabismii/Stock-Sentiment-from-News-Headlines)
+
+
+
+
  
  
 
