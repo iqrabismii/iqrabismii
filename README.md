@@ -59,15 +59,17 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 <h2 align = "center">  Big Data Projects </h2> 
 
-#### [Analyzing Customer Shopping Behavior for Ecommerce Industry](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-)
-[<img src = "https://user-images.githubusercontent.com/108056063/213788030-d38c5f4b-abe3-4608-8f3e-09b0fe8ca8e7.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-)
 
- 
- | [Analysing Car's Performance using Pyspark](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/CarsPerformanceAnalysis_UsingPyspark)| [End to End ML Model Using Pyspark](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/End-to-End-ML-model-using-Pyspark)|
+ | [Analyzing Customer Shopping Behavior using AWS Services](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-)| [End to End ML Model Using Pyspark](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/End-to-End-ML-model-using-Pyspark)|
 | :-:| :-:| 
-| [<img src = "https://user-images.githubusercontent.com/108056063/212295979-0a771f8c-a43b-44d9-ac3e-d52be4bfb9db.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/CarsPerformanceAnalysis_UsingPyspark)| [<img src = "https://user-images.githubusercontent.com/108056063/212296507-4d1d1786-48ce-4067-802f-94b4819410cd.png" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/End-to-End-ML-model-using-Pyspark)
+| [<img src = "https://user-images.githubusercontent.com/108056063/213788030-d38c5f4b-abe3-4608-8f3e-09b0fe8ca8e7.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/Analyzing-Customer-Shopping-Behavior-from-a-large-Multicategory-Online-Store-)| [<img src = "https://user-images.githubusercontent.com/108056063/212296507-4d1d1786-48ce-4067-802f-94b4819410cd.png" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/End-to-End-ML-model-using-Pyspark)
  
- 
+| [Analysing Car's Performance using Pyspark](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/CarsPerformanceAnalysis_UsingPyspark)| [Performance Comparsion between Mongodb and Cassandra](https://github.com/iqrabismii/Performance-Comparsion-between-Mongodb-and-Cassandra)|
+| :-:| :-:| 
+| [<img src = "https://user-images.githubusercontent.com/108056063/212295979-0a771f8c-a43b-44d9-ac3e-d52be4bfb9db.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Big-Data-Projects-/tree/main/CarsPerformanceAnalysis_UsingPyspark)| [<img src = "https://user-images.githubusercontent.com/108056063/213975496-9cabacbe-ce58-4126-8276-605d4b2a84da.png" width = 500 height = 250/>](https://github.com/iqrabismii/Performance-Comparsion-between-Mongodb-and-Cassandra)
+
+
+
 
  
 <h2 align = "center"> Natural Language Processing (NLP) Projects </h2> 
@@ -246,6 +248,8 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; 📃 [__Detecting and Resolving Duplicate Records using Record Linkage__](https://medium.com/@iqra.bismi/detecting-and-resolving-duplicate-records-using-record-linkage-937eea4288fb)
 
 &emsp;&emsp; 📃 [__Two Simple Tests to check Normality of the data__](https://medium.com/@iqra.bismi/two-simple-tests-to-check-normality-of-the-data-a81989654109)
+
+&emsp;&emsp; 📃 [__How to perform Market Basket Analysis using Apriori Algorithm and Association Rules__](https://medium.com/@iqra.bismi/how-to-perform-market-basket-analysis-using-apriori-algorithm-and-association-rules-3f6ba61d6e4b)
  
 ## Contact Information
 
