@@ -11,7 +11,7 @@
 
 
 
-I am passionate about __Data Science__ and __Machine Learning__. With the proliferation of data in today's digital age, data science has become a crucial tool for businesses, governments, and other organizations to understand and analyze complex data sets in order to make better decisions, improve operations, and drive growth. I have gained in depth-knowledge in __Data Science__and __Machine Learning__ by taking online courses, reading relavant books and articles about __Big Data Analytics__, __Machine Learning__, __Statistics__ and __Data Science__.  
+I am passionate about __Data Science__, __Data Engineering__ and __Machine Learning__. With the proliferation of data in today's digital age, data science has become a crucial tool for businesses, governments, and other organizations to understand and analyze complex data sets in order to make better decisions, improve operations, and drive growth. I have gained in depth-knowledge in these fields by taking online courses, reading relavant books and articles about __Big Data Analytics__, __Machine Learning__, __Statistics__ and __Data Science__.  
 
 <p align= "center">
 <img width="1200" height="330" src="https://user-images.githubusercontent.com/108056063/209587586-9c1e2aa9-082c-4389-9718-63155fabaf0e.png" alt="my banner">
