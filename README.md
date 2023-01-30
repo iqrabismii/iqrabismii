@@ -1,6 +1,8 @@
 <p align= "center">
-<img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/214183496-42ea950b-c8cc-4a5c-9b03-57976d14005d.png" alt="my banner">
+<img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/215602441-2ba34cee-251c-4582-8f62-8548bdeabfe5.jpg" alt="my banner">
 </p>
+
+
 
 
 <h1 align = "center">Hi there, I'm Iqra Bismi👋</h1>
