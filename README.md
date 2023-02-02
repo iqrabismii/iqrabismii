@@ -264,6 +264,16 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 &emsp;&emsp; 📃 [__How to perform Market Basket Analysis using Apriori Algorithm and Association Rules__](https://medium.com/@iqra.bismi/how-to-perform-market-basket-analysis-using-apriori-algorithm-and-association-rules-3f6ba61d6e4b)
  
+&emsp;&emsp; 📃 [__How to determine the order of ARIMA or SARIMA Models__](https://medium.com/@iqra.bismi/an-easy-way-to-determine-the-order-of-arima-or-sarima-models-7f4cbb01e66)
+ 
+&emsp;&emsp; 📃 [__How to Perform Hyper-Parameter Tuning in Artificial Neural Networks__](https://medium.com/@iqra.bismi/how-to-perform-hyper-parameter-tuning-in-artificial-neural-networks-2bed80903b48)
+ 
+
+ 
+
+ 
+
+ 
 ## Contact Information
 
 &emsp;&emsp; 📱 __Phone No:__ __669-230-9604__
