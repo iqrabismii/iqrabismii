@@ -268,7 +268,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 &emsp;&emsp; 📃 [__How to Perform Hyper-Parameter Tuning in Artificial Neural Networks__](https://medium.com/@iqra.bismi/how-to-perform-hyper-parameter-tuning-in-artificial-neural-networks-2bed80903b48)
 
-&emsp;&emsp; 📃 [__How to Perform Hyper-Parameter Tuning in Artificial Neural Networks__](https://medium.com/@iqra.bismi/different-loss-functions-used-in-regression-cfb875bf5561)
+&emsp;&emsp; 📃 [__Different-Loss-Functions-used-in-Regression__](https://medium.com/@iqra.bismi/different-loss-functions-used-in-regression-cfb875bf5561)
  
 
  
