@@ -111,16 +111,13 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 <h2 align = "center"> SQL Case Study</h2> 
 
-|  [Danny's Diner Case Study ](https://github.com/iqrabismii/8-Week-SQL-Challenge/tree/main/Dannys_diner_case_study)|
-| :-: |
-| [<img src = "https://user-images.githubusercontent.com/108056063/214137731-68d14ccd-612b-472f-96a6-e45f2efaa45a.png" width = 500 height = 300/>](https://github.com/iqrabismii/8-Week-SQL-Challenge/tree/main/Dannys_diner_case_study)|
+ 
+| [Danny's Diner Case Study ](https://github.com/iqrabismii/8-Week-SQL-Challenge/tree/main/Dannys_diner_case_study)| [Foodie-Fi Case Study](https://github.com/iqrabismii/8-Week-SQL-Challenge/tree/main/food-fi)|
+| :-:| :-:| 
+| [<img src = "https://user-images.githubusercontent.com/108056063/214137731-68d14ccd-612b-472f-96a6-e45f2efaa45a.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/8-Week-SQL-Challenge/tree/main/Dannys_diner_case_study)| [<img src = "https://user-images.githubusercontent.com/108056063/216726160-5953e4d0-5eb9-4505-9fc8-74693702a2d0.png" width = 500 height = 250/>](https://github.com/iqrabismii/8-Week-SQL-Challenge/tree/main/food-fi)
+ 
  
 
-<hr style="border:0.01px solid blue">
- 
-
- 
- 
 
 
  
