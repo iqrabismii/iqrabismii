@@ -268,10 +268,23 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; 📃 [__Different-Loss-Functions-used-in-Regression__](https://medium.com/@iqra.bismi/different-loss-functions-used-in-regression-cfb875bf5561)
  
 
- 
 
- 
+##  State-of-the-art (SOTA) Techniques in Artificial Intelligence:
 
+&emsp; [__SHAP (Explainable AI)__](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html) 
+SHAP (SHapley Additive exPlanations) is a framework for interpretability and visualization of machine learning models. It provides an explanation for the predictions made by a machine learning model by assigning an importance score to each feature, indicating its contribution to the prediction. The SHAP values are based on a game theoretic approach to feature attribution, known as the Shapley values, which are a measure of the contribution of each feature to the prediction of a model.
+
+The SHAP values are calculated for each prediction and are designed to be both model-agnostic and locally accurate. This means that they can be used to interpret any machine learning model, not just specific types of models, and the values for each feature are only relevant for the specific prediction being made. This allows for detailed, local interpretation of model predictions, rather than relying on global feature importance values.
+ 
+&emsp; [__Record Linkage__](https://recordlinkage.readthedocs.io/en/latest/about.html) 
+Record linkage, also known as entity resolution or data matching, is the process of identifying records in different databases that refer to the same real-world entity, despite differences in their representation or encoding. The goal of record linkage is to merge duplicate records into a single, accurate representation of the entity. This is an important step in data cleaning, which is a crucial part of the data preparation process in data analysis and machine learning.
+
+Record linkage can be accomplished using various techniques, including deterministic methods, such as exact or fuzzy matching, and probabilistic methods, such as statistical matching and Bayesian inference. The choice of method will depend on the specific requirements of the data, such as the size of the data set, the amount of noise in the data, and the desired level of accuracy.
+
+In practice, record linkage is used in a wide range of applications, including data integration, data quality improvement, fraud detection, customer relationship management, and market research.
+ 
+&emsp; [__Optuna__](https://optuna.org/) 
+Optuna is an open-source library for hyperparameter optimization that enables users to efficiently perform Bayesian optimization, grid search, and random search. It supports a wide range of machine learning frameworks, including TensorFlow, PyTorch, and XGBoost. Optuna provides a high-level API for defining objectives and constraints, as well as a set of built-in algorithms for choosing the next set of hyperparameters to evaluate. It also integrates with popular visualization libraries such as Matplotlib and Plotly for easy visualizations of the optimization process. Optuna is designed to be easy to use and customizable, allowing users to implement their own optimization algorithms or to extend the existing ones with custom functions.
  
 
  
