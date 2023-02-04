@@ -82,23 +82,19 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 | :-:| :-:| 
 | [<img src = "https://user-images.githubusercontent.com/108056063/213907438-fefe9986-d909-4bdb-b087-4c1f983a129f.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Twitter-Sentiment-Analysis-for-Various-Health-Issues)| [<img src = "https://user-images.githubusercontent.com/108056063/213995982-b35937ce-3cb4-4b3e-8c0e-d174643c0aaa.png" width = 500 height = 250/>](https://github.com/iqrabismii/Stock-Sentiment-from-News-Headlines)
 
-
-
-
- 
- 
-
  
 
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> Data Mining Projects </h2> 
 
-|  [Market Basket Analysis for Grocery Store](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)|
-| :-: |
-| [<img src = "https://user-images.githubusercontent.com/108056063/211170736-f061d322-02e1-4c78-af31-df364256558a.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)|
+ 
+| [Market Basket Analysis for Grocery Store](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)| [Detecting Duplicate Data using RecordLinkage](https://github.com/iqrabismii/RecordLinkage/blob/main/RecordLinkage.ipynb)|
+| :-:| :-:| 
+| [<img src = "https://user-images.githubusercontent.com/108056063/211170736-f061d322-02e1-4c78-af31-df364256558a.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)| [<img src = "https://user-images.githubusercontent.com/108056063/216739621-63a91fa6-6541-4532-b938-5ab34d817aa6.png" width = 500 height = 250/>](https://github.com/iqrabismii/RecordLinkage/blob/main/RecordLinkage.ipynb)
+ 
 
-<hr style="border:0.01px solid blue">
+
  
  
 <h2 align = "center">  Data Visualisation Projects </h2> 
