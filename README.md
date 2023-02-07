@@ -295,7 +295,7 @@ is an open-source library for hyperparameter optimization that enables users to 
 
 &emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/iqra-bismi/__
 
-&emsp;&emsp; 📫 __Email:__ __iqra.bismi@sjsu.edu__
+&emsp;&emsp; 📫 __Email:__ __iqrabismi1992@gmail.com__
 
 &emsp;&emsp; ✍🏻 __Medium:__ __https://medium.com/@iqra.bismi__
 
