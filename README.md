@@ -113,14 +113,18 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 | [<img src = "https://user-images.githubusercontent.com/108056063/214137731-68d14ccd-612b-472f-96a6-e45f2efaa45a.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/8-Week-SQL-Challenge/tree/main/Dannys_diner_case_study)| [<img src = "https://user-images.githubusercontent.com/108056063/216726160-5953e4d0-5eb9-4505-9fc8-74693702a2d0.png" width = 500 height = 250/>](https://github.com/iqrabismii/8-Week-SQL-Challenge/tree/main/food-fi)
  
  
+<h2 align = "center"> Statistics </h2> 
+
+ 
+| [Multi-Variate Regression Using Statsmodels and Gradient Descent Optimisation ](https://github.com/iqrabismii/Statistics-/blob/main/RegressionUsingStatsmodels/OLS_Statsmodels.ipynb)| [Finding the best gateway for Mobile Game using A/B Testing](https://github.com/iqrabismii/Statistics-/tree/main/AB_Testing)|
+| :-:| :-:| 
+| [<img src = "https://user-images.githubusercontent.com/108056063/217162295-7f70d455-4bc9-495c-ae74-f760eece5d31.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Statistics-/blob/main/RegressionUsingStatsmodels/OLS_Statsmodels.ipynb)| [<img src = "https://user-images.githubusercontent.com/108056063/217161636-72e401d9-7a3b-4a93-b7dd-2344eaebdd83.png" width = 500 height = 250/>](https://github.com/iqrabismii/Statistics-/tree/main/AB_Testing)
+
+
 
 
 
  
- 
-
-
-
  
  
 ## Education 
