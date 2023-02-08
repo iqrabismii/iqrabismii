@@ -59,7 +59,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 | :-:| :-:| 
 | [<img src = "https://user-images.githubusercontent.com/108056063/212184587-8a40c19d-bf2a-46c2-870b-b1d3431341fc.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [<img src = "https://user-images.githubusercontent.com/108056063/212286229-2e49f5aa-b033-4064-8037-1000d5984c29.png" width = 500 height = 250/>](https://github.com/iqrabismii/MoviesRecommendationSystem/tree/main/CFBasedRecommendation)
  
-<h2 align = "center">  Computer Vision </h2> 
+<h2 align = "center">  Computer Vision Projects </h2> 
 
 |  [Fashion Clothes Classification Using Convolutional Neural Network](https://github.com/iqrabismii/Computer-Vision-Projects/tree/main/ImageClassificationUsingCNN)|
 | :-: |
