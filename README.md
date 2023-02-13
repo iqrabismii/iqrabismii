@@ -294,6 +294,12 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; 📃 [__Using Hexbin Plots to visualise relationship between two variables__](https://medium.com/@iqra.bismi/using-hexbin-plots-to-visualise-relationship-between-two-variables-42e26bce3df1)
  
 &emsp;&emsp; 📃 [__Different-Correlation-Coefficients-to-measure-the-relationship-between-two-variables__](https://medium.com/@iqra.bismi/different-correlation-coefficients-to-measure-the-relationship-between-two-variables-9ca8a2eb7934)
+ 
+&emsp;&emsp; 📃 [__Different-Methods-to-replace-Missing-Values-in-Data__](https://medium.com/@iqra.bismi/different-methods-to-replace-missing-values-in-data-5f92b861afc1)
+ 
+
+ 
+
 
 
 
