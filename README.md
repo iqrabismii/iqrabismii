@@ -69,6 +69,15 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 
  
+
+<h2 align = "center">  Unsupervised Machine Learning Projects </h2> 
+
+|  [Credit Card Customer Segmentation](https://github.com/iqrabismii/UnsupervisedLearning/tree/main/clustering)|
+| :-: |
+| [<img src = "https://user-images.githubusercontent.com/108056063/218360870-51811922-6ce9-414f-8ae9-35cd698044e5.png" width = 500 height = 300/>](https://github.com/iqrabismii/UnsupervisedLearning/tree/main/clustering)| 
+<hr style="border:0.01px solid blue">
+
+ 
  
 <h2 align = "center">  Big Data Projects </h2> 
 
