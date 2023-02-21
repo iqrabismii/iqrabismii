@@ -201,6 +201,8 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp; :bookmark: [__Big Data Fundamentals with Pyspark__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/BigData_fundamentals_with_Pyspark.pdf)
  
 &emsp; :bookmark: [__Building Recommendation System with Pyspark__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/Building_RecommendationSytem_with_Pyspark.pdf)
+
+&emsp; :bookmark: [__Writing Functions and Stored Procedures in SQL Server__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/WritingFunctionsandStoredProceduresinSQLServer.pdf)
  
 &emsp; :bookmark: [__Learning Hadoop__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/CertificateOfCompletion_Learning_Hadoop.pdf)
  
@@ -299,9 +301,11 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 &emsp;&emsp; 📃 [__How to find Optimal Parameters for Regression Model using Scipy__](https://medium.com/@iqra.bismi/how-to-find-optimal-parameters-for-regression-model-using-scipy-function-5c248d4671a6 )
  
-
-
 &emsp;&emsp; 📃 [__What is Pandas Profiler and Why it is used__](https://medium.com/@iqra.bismi/what-is-pandas-profiler-and-why-it-is-used-2a639fea983a)
+
+&emsp;&emsp; 📃 [__OLAP Operations in SQL__](https://medium.com/@iqra.bismi/olap-operations-in-sql-1293793d811e)
+ 
+
 
 
 
