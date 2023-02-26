@@ -332,7 +332,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 &emsp;&emsp; 📃 [__OLAP Operations in SQL__](https://medium.com/@iqra.bismi/olap-operations-in-sql-1293793d811e)
  
-
+&emsp;&emsp; 📃 [__Feature-Encoding-Using-K-Fold-Target-Encoding__](https://medium.com/@iqra.bismi/feature-encoding-using-k-fold-target-encoding-d61f52aac7a5)
 
 
 
