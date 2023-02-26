@@ -60,10 +60,13 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 | [<img src = "https://user-images.githubusercontent.com/108056063/212184587-8a40c19d-bf2a-46c2-870b-b1d3431341fc.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [<img src = "https://user-images.githubusercontent.com/108056063/212286229-2e49f5aa-b033-4064-8037-1000d5984c29.png" width = 500 height = 250/>](https://github.com/iqrabismii/MoviesRecommendationSystem/tree/main/CFBasedRecommendation)
  
 
-|  [House Price Prediction Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/housepriceprediction)|
-| :-: |
-| [<img src = "https://user-images.githubusercontent.com/108056063/220476986-035c3b73-af8a-42f1-a478-dfffabc02fb9.png" width = 500 height = 300/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/housepriceprediction)| 
-<hr style="border:0.01px solid blue">
+|  [House Price Prediction Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/housepriceprediction)| [Popular Recipe Predition Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/PredictingPopularRecipe)|
+| :-: | :-: |
+| [<img src = "https://user-images.githubusercontent.com/108056063/220476986-035c3b73-af8a-42f1-a478-dfffabc02fb9.png" width = 500 height = 300/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/housepriceprediction)| [<img src = "https://user-images.githubusercontent.com/108056063/221402600-1288f6fa-d69a-4afe-ae81-4e410e9c4418.png" width = 500 height = 300/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/PredictingPopularRecipe)| 
+
+ 
+
+
  
 
 
