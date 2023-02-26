@@ -64,11 +64,14 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 | :-: | :-: |
 | [<img src = "https://user-images.githubusercontent.com/108056063/220476986-035c3b73-af8a-42f1-a478-dfffabc02fb9.png" width = 500 height = 300/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/housepriceprediction)| [<img src = "https://user-images.githubusercontent.com/108056063/221402600-1288f6fa-d69a-4afe-ae81-4e410e9c4418.png" width = 500 height = 300/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/PredictingPopularRecipe)| 
 
+|  [Speech Emotion Recognition](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/SpeechEmotionRecognition)|
+| :-: |
+| [<img src = "https://user-images.githubusercontent.com/108056063/221436453-fa81fce1-bef8-4f04-9a13-add23e566284.png" width = 500 height = 300/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/SpeechEmotionRecognition)| 
+<hr style="border:0.01px solid blue"> 
+
  
 
-
  
-
 
 
 
