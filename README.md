@@ -338,7 +338,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 
 
-##  State-of-the-art (SOTA) Techniques in Artificial Intelligence:
+##  State-of-the-art (SOTA) Techniques in Artificial Intelligence and Statistics:
 
 &emsp; [__SHAP (Explainable AI)__](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html) 
 (SHapley Additive exPlanations) is a framework for interpretability and visualization of machine learning models. It provides an explanation for the predictions made by a machine learning model by assigning an importance score to each feature, indicating its contribution to the prediction. The SHAP values are based on a game theoretic approach to feature attribution, known as the Shapley values, which are a measure of the contribution of each feature to the prediction of a model.
