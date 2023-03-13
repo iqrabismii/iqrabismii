@@ -334,7 +334,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 &emsp;&emsp; 📃 [__Feature-Encoding-Using-K-Fold-Target-Encoding__](https://medium.com/@iqra.bismi/feature-encoding-using-k-fold-target-encoding-d61f52aac7a5)
  
-&emsp;&emsp; 📃 [_Different Linkage Methods used in Hierarchical Clustering__](https://medium.com/@iqra.bismi/different-linkage-methods-used-in-hierarchical-clustering-627bde3787e8)
+&emsp;&emsp; 📃 [__Different Linkage Methods used in Hierarchical Clustering__](https://medium.com/@iqra.bismi/different-linkage-methods-used-in-hierarchical-clustering-627bde3787e8)
 
 
 
