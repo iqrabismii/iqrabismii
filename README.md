@@ -336,6 +336,11 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 &emsp;&emsp; 📃 [__Different Linkage Methods used in Hierarchical Clustering__](https://medium.com/@iqra.bismi/different-linkage-methods-used-in-hierarchical-clustering-627bde3787e8)
 
+&emsp;&emsp; 📃 [__What is LIME and how it can be used?__](https://medium.com/@iqra.bismi/what-is-lime-and-how-it-can-used-9b98ef9ecaf)
+ 
+ 
+ 
+
 
 
 
