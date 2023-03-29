@@ -78,11 +78,10 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 <h2 align = "center">  Computer Vision Projects </h2> 
 
-|  [Fashion Clothes Classification Using Convolutional Neural Network](https://github.com/iqrabismii/Computer-Vision-Projects/tree/main/ImageClassificationUsingCNN)|
-| :-: |
-| [<img src = "https://user-images.githubusercontent.com/108056063/217451801-e03d98c4-a18a-46f6-a3a0-7bfc4893b916.png" width = 500 height = 300/>](https://github.com/iqrabismii/Computer-Vision-Projects/tree/main/ImageClassificationUsingCNN)| 
-<hr style="border:0.01px solid blue">
-
+ 
+|  [Fashion Clothes Classification Using Convolutional Neural Network](https://github.com/iqrabismii/Computer-Vision-Projects/tree/main/ImageClassificationUsingCNN)| [Sign Language Indentification](https://github.com/iqrabismii/Computer-Vision-Projects/tree/main/ASL_Recognition)|
+| :-: | :-: |
+| [<img src = "https://user-images.githubusercontent.com/108056063/217451801-e03d98c4-a18a-46f6-a3a0-7bfc4893b916.png" width = 500 height = 300/>](https://github.com/iqrabismii/Computer-Vision-Projects/tree/main/ImageClassificationUsingCNN)| [<img src = "https://user-images.githubusercontent.com/108056063/228657747-fc5696f7-0851-4237-bff1-a70bb981ab5e.png" width = 500 height = 300/>](https://github.com/iqrabismii/Computer-Vision-Projects/tree/main/ASL_Recognition)| 
 
 
  
