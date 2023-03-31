@@ -246,6 +246,10 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 &emsp; :bookmark: [__Analysing Data In Tableau__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Data-Visualisation-Certification/blob/main/AnalysingDataInTableau.pdf) 
  
+
+&emsp; :bookmark: [__Advanced DeepLearning With Keras__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/Advanced_DeepLearning_With_Keras.pdf) 
+ 
+ 
  
  
 ## Work Experience 
