@@ -352,8 +352,12 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; 📃 [__Difference between Prediction Interval and Confidence Interval__](https://medium.com/@iqra.bismi/difference-between-prediction-interval-and-confidence-interval-84dce2ec073f)
  
  
+&emsp;&emsp; 📃 [__Understanding Keras Embedding for NLP__](https://medium.com/@iqra.bismi/understanding-keras-embedding-for-natural-language-processing-9f65a281b1a7)
 
 
+ 
+ 
+ 
  
  
  
