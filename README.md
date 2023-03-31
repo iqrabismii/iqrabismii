@@ -337,6 +337,22 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 &emsp;&emsp; 📃 [__What is LIME and how it can be used?__](https://medium.com/@iqra.bismi/what-is-lime-and-how-it-can-used-9b98ef9ecaf)
  
+
+ 
+&emsp;&emsp; 📃 [__Benefits Of Dropblock Over Dropout in CNN__](https://medium.com/@iqra.bismi/benefits-of-dropblock-over-dropout-in-convolutional-neural-networks-c4019ed3670f)
+ 
+ 
+&emsp;&emsp; 📃 [__Benefits Of Dropblock Over Dropout in CNN__](https://medium.com/@iqra.bismi/benefits-of-dropblock-over-dropout-in-convolutional-neural-networks-c4019ed3670f)
+ 
+
+&emsp;&emsp; 📃 [__Difference between Prediction Interval and Confidence Interval__](https://medium.com/@iqra.bismi/difference-between-prediction-interval-and-confidence-interval-84dce2ec073f)
+ 
+ 
+
+
+ 
+ 
+ 
  
  
 
