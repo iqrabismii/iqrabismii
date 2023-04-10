@@ -353,6 +353,19 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
  
 &emsp;&emsp; 📃 [__Understanding Keras Embedding for NLP__](https://medium.com/@iqra.bismi/understanding-keras-embedding-for-natural-language-processing-9f65a281b1a7)
+ 
+&emsp;&emsp; 📃 [__Augmenting Text Using Large Language Models GPT-2 GPT-3 BERT__](https://medium.com/@iqra.bismi/augmenting-text-using-large-language-models-gpt-2-gpt-3-bert-b6ca8008d85d)
+ 
+ 
+&emsp;&emsp; 📃 [__Equiangular Basis Vectors:a better alternative to softmax for classification tasks__](https://medium.com/@iqra.bismi/equiangular-basis-vectors-a-better-alternative-to-softmax-for-classification-tasks-2a2e7fa7b1fc)
+ 
+&emsp;&emsp; 📃 [__Federated Learning by Google bringing Privacy to Machine Learning__](https://medium.com/@iqra.bismi/federated-learning-by-google-bringing-privacy-to-machine-learning-25f7594849eb)
+ 
+ 
+
+ 
+
+ 
 
 
  
