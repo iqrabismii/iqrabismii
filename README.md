@@ -247,9 +247,23 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp; :bookmark: [__Analysing Data In Tableau__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Data-Visualisation-Certification/blob/main/AnalysingDataInTableau.pdf) 
  
 
-&emsp; :bookmark: [__Advanced DeepLearning With Keras__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/Advanced_DeepLearning_With_Keras.pdf) 
+&emsp; :bookmark: [__Advanced DeepLearning With Keras__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/Advanced_DeepLearning_With_Keras.pdf)
  
+&emsp; :bookmark: [__Modernising Data Lakes and Data Warehouse with Google Cloud__ ![](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ](https://coursera.org/share/d45931a3496d885b1162725505baae79)
  
+&emsp; :bookmark: [__Google Cloud Big Data and Machine Learning Fundamentals__ ![](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ](https://coursera.org/share/3f17194d97f2042f81348594573caaec)
+ 
+&emsp; :bookmark: [__Data Science with Tableau__ ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ](https://verify.skilljar.com/c/q3obvzidpx5x)
+ 
+&emsp; :bookmark: [__Amazon Web Services: Data Analytics__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/learning/certificates/ede470f50ab45d27eac145ea5be9c96b0cc530e85209c9f130d8ded25c0741f4)
+ 
+&emsp; :bookmark: [__Apache Spark Essential Training__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/learning/certificates/54fa29c19b15f8e76cd6cc51b1453a8a8d0df2a0126d959aaff3a9286db28075)
+ 
+&emsp; :bookmark: [__Advanced SQL for Data Science: Time Series__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/learning/certificates/b4d46beb6ffd4a1668bb1bd61033d8f00b905af16f6485bb76e40d6b5c144611)
+ 
+
+
+ 	
  
  
 ## Work Experience 
@@ -360,6 +374,10 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; 📃 [__Equiangular Basis Vectors:a better alternative to softmax for classification tasks__](https://medium.com/@iqra.bismi/equiangular-basis-vectors-a-better-alternative-to-softmax-for-classification-tasks-2a2e7fa7b1fc)
  
 &emsp;&emsp; 📃 [__Federated Learning by Google bringing Privacy to Machine Learning__](https://medium.com/@iqra.bismi/federated-learning-by-google-bringing-privacy-to-machine-learning-25f7594849eb)
+ 
+&emsp;&emsp; 📃 [__Different Types of Filters in Tableau__](https://medium.com/@iqra.bismi/understanding-different-types-of-filters-in-tableau-49c9117fec3f)
+ 
+
  
  
 
