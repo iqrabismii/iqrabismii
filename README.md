@@ -257,7 +257,9 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 &emsp; :bookmark: [__Analysing Data In Tableau__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Data-Visualisation-Certification/blob/main/AnalysingDataInTableau.pdf) 
  
-
+&emsp; :bookmark: [__Deep Learning in Pytorch__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/DeepLearning_Pytorch.pdf) 
+ 
+ 
 &emsp; :bookmark: [__Advanced DeepLearning With Keras__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/Advanced_DeepLearning_With_Keras.pdf)
  
 &emsp; :bookmark: [__Modernising Data Lakes and Data Warehouse with Google Cloud__ ![](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ](https://coursera.org/share/d45931a3496d885b1162725505baae79)
@@ -271,6 +273,8 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp; :bookmark: [__Apache Spark Essential Training__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/learning/certificates/54fa29c19b15f8e76cd6cc51b1453a8a8d0df2a0126d959aaff3a9286db28075)
  
 &emsp; :bookmark: [__Advanced SQL for Data Science: Time Series__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/learning/certificates/b4d46beb6ffd4a1668bb1bd61033d8f00b905af16f6485bb76e40d6b5c144611)
+ 
+
  
 
 
@@ -387,6 +391,9 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; 📃 [__Federated Learning by Google bringing Privacy to Machine Learning__](https://medium.com/@iqra.bismi/federated-learning-by-google-bringing-privacy-to-machine-learning-25f7594849eb)
  
 &emsp;&emsp; 📃 [__Different Types of Filters in Tableau__](https://medium.com/@iqra.bismi/understanding-different-types-of-filters-in-tableau-49c9117fec3f)
+ 
+ 
+&emsp;&emsp; 📃 [__What is Struct in SQL__](https://medium.com/@iqra.bismi/what-is-struct-in-sql-b0db3e236750)
  
 
  
