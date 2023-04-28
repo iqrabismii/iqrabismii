@@ -2,7 +2,7 @@
 <img width="1200" height="400" src="https://user-images.githubusercontent.com/108056063/215602441-2ba34cee-251c-4582-8f62-8548bdeabfe5.jpg" alt="my banner">
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=iqrabismii)
+
 
 
 
