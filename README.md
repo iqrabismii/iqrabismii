@@ -398,7 +398,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 &emsp;&emsp; 📃 [__What is Struct in SQL__](https://medium.com/@iqra.bismi/what-is-struct-in-sql-b0db3e236750)
  
-&emsp;&emsp; 📃 [__What is Struct in SQL__](https://medium.com/@iqra.bismi/topic-modelling-using-lda-fe81a2a806e0)
+&emsp;&emsp; 📃 [__Topic Modelling using LDA__](https://medium.com/@iqra.bismi/topic-modelling-using-lda-fe81a2a806e0)
  
 
  
