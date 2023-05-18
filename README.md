@@ -135,9 +135,12 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 <h2 align = "center"> Data Mining Projects </h2> 
 
  
-| [Market Basket Analysis for Grocery Store](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)| [Detecting Duplicate Data using RecordLinkage](https://github.com/iqrabismii/RecordLinkage/blob/main/RecordLinkage.ipynb)|
+| [Market Basket Analysis for Grocery Store](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)| [Restaurant Recommendation System based on Yelp Data]( https://github.com/iqrabismii/DataMiningProject)|
 | :-:| :-:| 
-| [<img src = "https://user-images.githubusercontent.com/108056063/211170736-f061d322-02e1-4c78-af31-df364256558a.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)| [<img src = "https://user-images.githubusercontent.com/108056063/216739621-63a91fa6-6541-4532-b938-5ab34d817aa6.png" width = 500 height = 250/>](https://github.com/iqrabismii/RecordLinkage/blob/main/RecordLinkage.ipynb)
+| [<img src = "https://user-images.githubusercontent.com/108056063/211170736-f061d322-02e1-4c78-af31-df364256558a.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)| [<img src = "https://github.com/iqrabismii/iqrabismii/assets/108056063/31affc6c-7814-4da4-b9b5-dc1bf74701ba" width = 500 height = 250/>](https://github.com/iqrabismii/DataMiningProject)
+ 
+
+
  
 
 
