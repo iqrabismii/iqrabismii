@@ -137,7 +137,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 | [Market Basket Analysis for Grocery Store](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)| [Restaurant Recommendation System based on Yelp Data]( https://github.com/iqrabismii/DataMiningProject)|
 | :-:| :-:| 
-| [<img src = "https://user-images.githubusercontent.com/108056063/211170736-f061d322-02e1-4c78-af31-df364256558a.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)| [<img src = "https://github.com/iqrabismii/iqrabismii/assets/108056063/31affc6c-7814-4da4-b9b5-dc1bf74701ba" width = 500 height = 250/>](https://github.com/iqrabismii/DataMiningProject)
+| [<img src = "https://user-images.githubusercontent.com/108056063/211170736-f061d322-02e1-4c78-af31-df364256558a.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/MarketBasketAnalysis)| [<img src = "https://github.com/iqrabismii/iqrabismii/assets/108056063/31affc6c-7814-4da4-b9b5-dc1bf74701ba" width = 500 height = 250/>]( https://github.com/iqrabismii/DataMiningProject)
  
 
 
