@@ -89,6 +89,14 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 <h2 align = "center">  Computer Vision Projects </h2> 
 
+|  [Animated Face Generation using GAN](https://github.com/iqrabismii/DeepLearningProject)|
+| :-: |
+| [<img src = "https://github.com/iqrabismii/iqrabismii/assets/108056063/d5853f32-f69c-4f9e-8f9e-ef0d6100f82d" width = 500 height = 300/>](https://github.com/iqrabismii/DeepLearningProject)| 
+
+ 
+
+
+
  
 |  [Fashion Clothes Classification Using Convolutional Neural Network](https://github.com/iqrabismii/Computer-Vision-Projects/tree/main/ImageClassificationUsingCNN)| [Sign Language Indentification](https://github.com/iqrabismii/Computer-Vision-Projects/tree/main/ASL_Recognition)|
 | :-: | :-: |
