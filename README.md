@@ -418,7 +418,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 &emsp;&emsp; 📃 [__Topic Modelling using LDA__](https://medium.com/@iqra.bismi/topic-modelling-using-lda-fe81a2a806e0)
  
-
+&emsp;&emsp; 📃 [__Difference Between Stateful and Stateless RNNs__](https://medium.com/@iqra.bismi/difference-between-stateful-and-stateless-rnns-2b397184e759)
  
 
  
