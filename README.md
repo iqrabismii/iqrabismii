@@ -303,6 +303,16 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 
 ## Assignments and Coursework 
+&emsp;📙 [__DATA-255 Deep Learning__](https://github.com/iqrabismii/DeepLearningAssignments)
+
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 1__](https://github.com/iqrabismii/DeepLearningAssignments/tree/main/HW1)
+ 
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 2__](https://github.com/iqrabismii/DeepLearningAssignments/tree/main/HW2)
+ 
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 3__](https://github.com/iqrabismii/DeepLearningAssignments/tree/main/HW3)
+ 
+&emsp;&emsp; &emsp;&emsp; 📖 [__Homework 4__](https://github.com/iqrabismii/DeepLearningAssignments/tree/main/HW4)
+ 
 
 &emsp;📙 [__DATA-245 Machine Learning__](https://github.com/iqrabismii/Machine-Learning-Assignments/tree/main)
 
