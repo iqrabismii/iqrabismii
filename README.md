@@ -420,6 +420,9 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
 &emsp;&emsp; 📃 [__Difference Between Stateful and Stateless RNNs__](https://medium.com/@iqra.bismi/difference-between-stateful-and-stateless-rnns-2b397184e759)
  
+&emsp;&emsp; 📃 [__Power of Continuous Integration and Continuous Deployment (CI/CD) in Data Engineering__](https://medium.com/@iqra.bismi/power-of-continuous-integration-and-continuous-deployment-ci-cd-in-data-engineering-44f2ce80a5d5)
+ 
+&emsp;&emsp; 📃 [__https://medium.com/@iqra.bismi/useful-data-science-libraries-in-python-796a0cfb1b75__](https://medium.com/@iqra.bismi/power-of-continuous-integration-and-continuous-deployment-ci-cd-in-data-engineering-44f2ce80a5d5)
 
  
  
