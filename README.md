@@ -293,6 +293,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
  
  
 ## Work Experience 
+&emsp; :computer: [__Data Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Roku Inc__](https://www.roku.com/en-ca/) __[May 2023 - Present]__
 
 &emsp; :computer: [__Senior Executive__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Oil and Natural Gas Corporation Ltd__](https://www.ongcindia.com/) __[July 2018 - April 2021]__
 
@@ -349,6 +350,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; :woman_teacher: __Curios__ <br>
 &emsp;&emsp; :woman_teacher:  __Problem-solving Skills__ <br>
 &emsp;&emsp; :woman_teacher:  __Time Management__ <br>
+&emsp;&emsp; :woman_teacher:  __Accountiblity__ <br>
 
  
 ##  Blogs On Medium
@@ -423,6 +425,16 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp;&emsp; 📃 [__Power of Continuous Integration and Continuous Deployment (CI/CD) in Data Engineering__](https://medium.com/@iqra.bismi/power-of-continuous-integration-and-continuous-deployment-ci-cd-in-data-engineering-44f2ce80a5d5)
  
 &emsp;&emsp; 📃 [__Useful Data Science Libraries in Python__](https://medium.com/@iqra.bismi/useful-data-science-libraries-in-python-796a0cfb1b75)
+
+&emsp;&emsp; 📃 [__What is Lamda and Kappa Architecture__](https://medium.com/@iqra.bismi/what-is-lambda-and-kappa-architecture-ef7b4057494b)
+
+&emsp;&emsp; 📃 [__Difference between Data Lake and Data Lakehouse__](https://medium.com/@iqra.bismi/difference-between-data-lake-and-data-lakehouse-dbe36e138c56)
+
+&emsp;&emsp; 📃 [__AWS Dynamic Frames__](https://medium.com/@iqra.bismi/exploring-aws-dynamicframe-a-comprehensive-guide-to-powerful-data-transformations-b9f6c837fe63)
+
+&emsp;&emsp; 📃 [__Thompson Sampling for Multi Arm Bandit Problem__](https://medium.com/@iqra.bismi/thompson-sampling-a-powerful-algorithm-for-multi-armed-bandit-problems-95c15f63a180)
+
+&emsp;&emsp; 📃 [__Confounding and Instrumental Variables__](https://medium.com/@iqra.bismi/untangling-causal-relationships-instrumental-variables-and-confounding-variables-a1cef3e8af57)
 
  
  
