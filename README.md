@@ -436,6 +436,16 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
 &emsp;&emsp; 📃 [__Confounding and Instrumental Variables__](https://medium.com/@iqra.bismi/untangling-causal-relationships-instrumental-variables-and-confounding-variables-a1cef3e8af57)
 
+&emsp;&emsp; 📃 [__Comprehensive Overview of Introduction to MLOPS by Oreilly__](https://medium.com/@iqra.bismi/a-comprehensive-overview-of-introduction-to-mlops-by-oreilly-1d8bbb0f44e)
+
+&emsp;&emsp; 📃 [__Responsibleai Rainwidget: a tool for interpretable fair and accurate Machine Learning__](https://medium.com/ai-in-plain-english/responsibleai-rainwidget-a-tool-for-interpretable-fair-and-accurate-machine-learning-406d7b30a2c5)
+
+&emsp;&emsp; 📃 [__Grouped Data Cross Validation with Scikit-learn: Groupshufflesplit and Groupkfold__](https://medium.com/ai-in-plain-english/grouped-data-cross-validation-with-scikit-learn-groupshufflesplit-and-groupkfold-d43a46bfab99)
+
+
+
+
+
  
  
 
